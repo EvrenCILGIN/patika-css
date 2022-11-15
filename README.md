@@ -4,7 +4,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) CSS Eğitiminde oluşturuldu.
 
 # 1. Ödev
 
-![github](img/github.png)
+![github](img/site.png)
 
 # 2. Ödev
 
@@ -12,4 +12,4 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) CSS Eğitiminde oluşturuldu.
 
 # 3. Ödev
 
-![github](img/github.png)
+![github](Google_Homepage/img/Google_Homepage.jpg)
